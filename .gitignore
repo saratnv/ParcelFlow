@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+Debug/
+Release/
+x64/
+x86/
+
+# Qt specific
+*.user.*
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+Makefile*
+*.stash
+
+# Build files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.exp

@@ -1,0 +1,3 @@
+Smith John,Main St|Broadway|Nowhere,100,100,50
+Mary Mary,5th Ave,300,300,80
+Andy Murray, 6th Ave|Broadway|Mihali, 150,150,70
